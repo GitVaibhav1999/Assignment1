@@ -7,7 +7,7 @@ class TextControl extends StatefulWidget {
 }
 
 class _TextControl extends State<TextControl> {
-   String _befText = 'TExt BEfore PRessing';
+   String _befText = 'Text Before Pressing';
   @override
  
 
